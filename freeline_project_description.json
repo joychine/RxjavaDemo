@@ -1,0 +1,96 @@
+{
+    "android_gradle_plugin_version": "2.2.3",
+    "apk_path": "C:\\workspace_4_as\\RxjavaDemo\\app\\build\\outputs\\apk\\app-debug.apk",
+    "auto_dependency": true,
+    "build_cache_dir": "C:\\workspace_4_as\\RxjavaDemo\\app\\build\\freeline",
+    "build_directory": "C:\\workspace_4_as\\RxjavaDemo\\app\\build",
+    "build_script": "gradlew.bat :app:assembleDebug",
+    "build_script_work_directory": "",
+    "build_tools_directory": "C:\\android-sdk-windows\\build-tools\\25.0.1",
+    "build_tools_version": "25.0.1",
+    "compile_sdk_directory": "C:\\android-sdk-windows\\platforms\\android-25",
+    "compile_sdk_version": "android-25",
+    "databinding": [
+        
+    ],
+    "databinding_modules": [
+        
+    ],
+    "debug_package": "com.example.rxjava.rxjavademo",
+    "exclude_dep_res_paths": [
+        
+    ],
+    "extra_dep_res_paths": [
+        
+    ],
+    "freeline_cache_dir": "C:\\workspace_4_as\\RxjavaDemo",
+    "freeline_gradle_plugin_version": "0.8.4",
+    "java_home": "C:\\Android Studio\\jre",
+    "launcher": "com.example.rxjava.rxjavademo.MainActivity",
+    "main_assets_directory": [
+        "C:\\workspace_4_as\\RxjavaDemo\\app\\src\\debug\\assets",
+        "C:\\workspace_4_as\\RxjavaDemo\\app\\src\\main\\assets"
+    ],
+    "main_jniLibs_directory": [
+        "C:\\workspace_4_as\\RxjavaDemo\\app\\src\\debug\\jniLibs",
+        "C:\\workspace_4_as\\RxjavaDemo\\app\\src\\main\\jniLibs"
+    ],
+    "main_jni_directory": [
+        "C:\\workspace_4_as\\RxjavaDemo\\app\\src\\debug\\jni",
+        "C:\\workspace_4_as\\RxjavaDemo\\app\\src\\main\\jni"
+    ],
+    "main_manifest_path": "C:\\workspace_4_as\\RxjavaDemo\\app\\src\\main\\AndroidManifest.xml",
+    "main_project_dir": "app",
+    "main_project_name": "app",
+    "main_r_path": "C:\\workspace_4_as\\RxjavaDemo\\app\\build\\generated\\source\\r\\debug\\R.java",
+    "main_res_directory": [
+        "C:\\workspace_4_as\\RxjavaDemo\\app\\src\\debug\\res",
+        "C:\\workspace_4_as\\RxjavaDemo\\app\\src\\main\\res"
+    ],
+    "main_src_directory": [
+        "C:\\workspace_4_as\\RxjavaDemo\\app\\src\\debug\\java",
+        "C:\\workspace_4_as\\RxjavaDemo\\app\\src\\main\\java"
+    ],
+    "module_dependencies": {
+        "app": [
+            
+        ]
+    },
+    "modules": [
+        {
+            "name": "app",
+            "path": "C:\\workspace_4_as\\RxjavaDemo\\app"
+        }
+    ],
+    "package": "com.example.rxjava.rxjavademo",
+    "product_flavor": "",
+    "project_source_sets": {
+        "app": {
+            "main_assets_directory": [
+                "C:\\workspace_4_as\\RxjavaDemo\\app\\src\\debug\\assets",
+                "C:\\workspace_4_as\\RxjavaDemo\\app\\src\\main\\assets"
+            ],
+            "main_jniLibs_directory": [
+                "C:\\workspace_4_as\\RxjavaDemo\\app\\src\\debug\\jniLibs",
+                "C:\\workspace_4_as\\RxjavaDemo\\app\\src\\main\\jniLibs"
+            ],
+            "main_jni_directory": [
+                "C:\\workspace_4_as\\RxjavaDemo\\app\\src\\debug\\jni",
+                "C:\\workspace_4_as\\RxjavaDemo\\app\\src\\main\\jni"
+            ],
+            "main_manifest_path": "C:\\workspace_4_as\\RxjavaDemo\\app\\src\\main\\AndroidManifest.xml",
+            "main_res_directory": [
+                "C:\\workspace_4_as\\RxjavaDemo\\app\\src\\debug\\res",
+                "C:\\workspace_4_as\\RxjavaDemo\\app\\src\\main\\res"
+            ],
+            "main_src_directory": [
+                "C:\\workspace_4_as\\RxjavaDemo\\app\\src\\debug\\java",
+                "C:\\workspace_4_as\\RxjavaDemo\\app\\src\\main\\java"
+            ]
+        }
+    },
+    "project_type": "gradle",
+    "root_dir": "C:\\workspace_4_as\\RxjavaDemo",
+    "sdk_directory": "C:\\android-sdk-windows",
+    "use_jdk8": true
+}
